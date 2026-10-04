@@ -1,0 +1,34 @@
+/* «Тетрадь + мел»: тёплая бумага в клетку, чернильный navy, жёлтый маркер.
+   Языки закодированы цветом по всему сайту: английский — кобальт, немецкий — томатный. */
+:root {
+  --c-paper: #fbf7ee;
+  --c-paper-2: #f4eedf;
+  --c-white: #ffffff;
+  --c-grid: rgba(47, 91, 234, 0.075);
+  --c-ink: #1b2a52;
+  --c-ink-2: #2a3b6b;
+  --c-text: #1b2a52;
+  --c-muted: #5a6585;
+  --c-line: rgba(27, 42, 82, 0.14);
+
+  --c-yellow: #ffc83d;
+  --c-yellow-soft: #fff1c4;
+  --c-en: #2f5bea;
+  --c-en-soft: #e3eaff;
+  --c-de: #e8553d;
+  --c-de-soft: #ffe4dd;
+  --c-mint: #3fb89a;
+  --c-mint-soft: #dcf4ec;
+
+  --f-display: 'Bricolage Grotesque', 'Figtree', system-ui, sans-serif;
+  --f-body: 'Figtree', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --f-hand: 'Caveat', 'Comic Sans MS', cursive;
+
+  --radius: 22px;
+  --radius-sm: 14px;
+  --shadow-hard: 5px 5px 0 var(--c-ink);
+  --shadow-soft: 0 18px 40px -18px rgba(27, 42, 82, 0.28);
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --header-h: 76px;
+  --gutter: clamp(16px, 4vw, 40px);
+}

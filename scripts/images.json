@@ -1,0 +1,18 @@
+{
+  "hero": { "src": "https://images.unsplash.com/photo-1758270705518-b61b40527e76", "author": "Vitaly Gariev", "user": "silverkblack", "width": 1600 },
+  "polaroid": { "src": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f", "author": "Brooke Cagle", "user": "brookecagle", "width": 900, "params": "h=900&fit=crop" },
+  "london": { "src": "https://images.unsplash.com/photo-1520986606214-8b456906c813", "author": "Lucas Davies", "user": "lucas_davies", "width": 2200 },
+  "berlin": { "src": "https://images.unsplash.com/photo-1587330979470-3595ac045ab0", "author": "Florian Wehde", "user": "florianwehde", "width": 2200 },
+  "kids": { "src": "https://images.unsplash.com/photo-1577896851231-70ef18881754", "author": "National Cancer Institute", "user": "nci", "width": 1000 },
+  "teens": { "src": "https://images.unsplash.com/photo-1758270704524-596810e891b5", "author": "Vitaly Gariev", "user": "silverkblack", "width": 1000 },
+  "adults": { "src": "https://images.unsplash.com/photo-1520881363902-a0ff4e722963", "author": "Helena Lopes", "user": "helenalopesph", "width": 1000 },
+  "exams": { "src": "https://images.unsplash.com/photo-1581726690015-c9861fa5057f", "author": "Taylor Flowe", "user": "taypaigey", "width": 1000, "params": "h=700&fit=crop&crop=entropy" },
+  "business": { "src": "https://images.unsplash.com/photo-1758691736722-cda1858056e0", "author": "Vitaly Gariev", "user": "silverkblack", "width": 1000 },
+  "online": { "src": "https://images.unsplash.com/photo-1513258496099-48168024aec0", "author": "Wes Hicks", "user": "sickhews", "width": 1000 },
+  "tiles": { "src": "https://images.unsplash.com/photo-1673515334717-da4d85aaf38b", "author": "Ling App", "user": "lingapp", "width": 1200 },
+  "desk": { "src": "https://images.unsplash.com/photo-1526566762798-8fac9c07aa98", "author": "Ella Jardim", "user": "daniellajardim", "width": 1000 },
+  "t-anna": { "src": "https://images.unsplash.com/photo-1758873268223-f61976493498", "author": "Vitaly Gariev", "user": "silverkblack", "width": 640, "params": "h=800&fit=crop&crop=faces" },
+  "t-tomasz": { "src": "https://images.unsplash.com/photo-1758873268113-326c61b29968", "author": "Vitaly Gariev", "user": "silverkblack", "width": 640, "params": "h=800&fit=crop&crop=faces" },
+  "t-helga": { "src": "https://images.unsplash.com/photo-1758685847967-c598c3b176b0", "author": "Vitaly Gariev", "user": "silverkblack", "width": 640, "params": "h=800&fit=crop&crop=faces" },
+  "t-jakub": { "src": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5", "author": "Christian Buehner", "user": "christianbuehner", "width": 640, "params": "h=800&fit=crop&crop=faces" }
+}
